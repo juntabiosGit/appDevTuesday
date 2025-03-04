@@ -32,6 +32,7 @@ public class week5 {
         Bendoy.display();
 
 
+        Enanod.display();
 
 
 
