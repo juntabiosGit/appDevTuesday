@@ -22,6 +22,7 @@ public class week5 {
         Balais.display();
 
         Bendoy.display();
+        Miranda.display();
 
 
 
