@@ -22,6 +22,7 @@ public class Week5 {
 
         Berte.display();
         Credo.display();
+        Costanilla.display();
         DeJesus.display();
         Dichoso.display();
         Dizon.display();
