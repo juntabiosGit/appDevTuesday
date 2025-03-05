@@ -23,6 +23,7 @@ public class Week5 {
         Eugenio.display();
         Garcia.display();
         Gabronino.display();
+        Geneblaza.display();
         Jesalva.display();
         Lamac.display();
         Mago.display();
