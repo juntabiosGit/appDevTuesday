@@ -17,6 +17,7 @@ public class Week5 {
         Credo.display();
         Costanilla.display();
         DeJesus.display();
+        Debuton.display();
         Dichoso.display();
         Dizon.display();
         Echon.display();
