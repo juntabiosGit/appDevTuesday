@@ -43,6 +43,7 @@ public class Week5 {
         Talidong.display();
         Tapia.display();
         Tado.display();
+        Trampe.display();
         Villaos.display();
         Villon.display();
     }
