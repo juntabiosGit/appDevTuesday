@@ -11,6 +11,7 @@ public class Week5 {
         Artiaga.display();
         Balais.display();
         Banaag.display();
+        Barcancel.display();
         Bendoy.display();
         Berte.display();
         Borja.display();
