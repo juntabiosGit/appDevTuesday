@@ -29,6 +29,7 @@ public class Week5 {
         Mangui.display();
         Mata.display();
         Miranda.display();
+        Pagtakhan.display();
         Pajanustan.display();
         Panis.display();
         Pascualado.display();
