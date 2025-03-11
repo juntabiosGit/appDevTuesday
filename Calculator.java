@@ -17,7 +17,7 @@ public class Calculator {
         }
 
  // Group 5: Modulus (Members: Miranda, Abagat, Garnica, Cababao, De Jesus, Latagan, Sudicta, Borja, Fernandez)
-   public static modulus remainder(int a, int b) {
+   public static int modulus (int a, int b) {
       return a % b;
    }
 	
