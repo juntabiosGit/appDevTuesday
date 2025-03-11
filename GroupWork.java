@@ -13,7 +13,7 @@ public class GroupWork   {
 
         System.out.println("Max: " + max(num1, num2)); // Group 8's method
 
-
+	System.out.println("Product: " + Calculator.multiply(num1, num2)); // Group 3's method
 
         System.out.println("Cube: " + Calculator.cube(num1));  // Group 7's method
         
