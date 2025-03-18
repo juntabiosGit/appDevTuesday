@@ -1,4 +1,4 @@
-// Calculator.java
+
 public class Calculator {
    
     // Group 1: Addition (Members: John, Sarah, Alex)
@@ -7,6 +7,16 @@ public class Calculator {
     public static int add(int a, int b) {
         return a + b;
     }
+<<<<<<< HEAD
+=======
+
+    //Group 3 : Product ( Echon, Gabronino, Acal, Villon, Ladera, Emnil, Debuton, Manuel, Tado, Carino)
+ public static int multiply (int a * int b) {
+   return a * b;
+
+
+
+>>>>>>> 063d819edf84fec5a87deebe3882b775e8f6455a
      // Group 8: max (Members: Pianar, Arevalo, Oblepias, GregAgpoon, SamAgpoon, Credo, Baldo, Adriano, Regoroso)
      public static int max(int a, int b) {
         // Returns the larger number
@@ -24,7 +34,13 @@ public class Calculator {
     public static int subtract(int a, int b) {  
     return a - b;  
       }
+
+
+    // Group 3 : Product ( Echon, Gabronino, Acal, Villon, Ladera, Emnil, Debuton, Manuel, Tado, Carino)
+        public static int multiply (int a * int b) {
+  	   return a * b;
 	
+
 
     //Group 4: Division (Members: Balais, Tabon, Amar, Pajanustan, Garcia, Banaag, Ringor, Berte)
      public static int divide(int a, int b){
@@ -48,3 +64,11 @@ public class Calculator {
     }
   
 }
+<<<<<<< HEAD
+=======
+
+    
+}
+
+
+>>>>>>> 063d819edf84fec5a87deebe3882b775e8f6455a
